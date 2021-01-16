@@ -1,0 +1,78 @@
+body{
+    background-image: url('bizland.png');
+    height: 13035px;
+    width: 1920px;
+}
+#quick-links{
+    height: 60px;
+    background-color: #ffa500cc;
+}
+#header{
+    height: 139px;
+    background-color: #ffffffba;
+}
+#welcome{
+    height: 451px;
+    background-color: #008000e0;
+}
+#highlights{
+    height: 548px;
+    background-color: #ffa500d4;
+}
+#about{
+    height: 1220px;
+    background-color: #ffffffc4;
+}
+#skills{
+    height: 373px;
+    background-color: #008000e0;
+}
+#statistics{
+    height: 424px;
+    background-color: #ffa500d9;
+}
+#clients{
+    height: 146px;
+    background-color: #ffffffc7;
+}
+#service{
+    height: 1499px;
+    background-color: #008000eb;
+}
+#testimonals{
+    height: 654px;
+    background-color: #ffa500db;
+}
+#portfolio{
+    height: 2146px;
+    background-color: #ffffffcc;
+}
+#team{
+    height: 1099px;
+    background-color: #008000ed;
+}
+#pricing{
+    height: 981px;
+    background-color: #ffa500db
+}
+#faq{
+    height: 987px;
+    background-color: #ffffffcc;
+}
+#contact{
+    height: 1325px;
+    background-color: #008000e6;
+}
+#newsletter{
+    height: 356px;
+    background-color: #ffa500d6;
+}
+#footer{
+    height: 508px;
+    background-color: #ffffffb0;
+}
+#legals{
+    height: 121px;
+    background-color: #008000de;
+}
+
