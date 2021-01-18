@@ -17,7 +17,6 @@ body{
 }
 #highlights{
     height: 548px;
-    background-color: #ffa500d4;
 }
 #about{
     height: 1220px;
@@ -115,4 +114,25 @@ body{
     color: blue;
     font-size: 32px;
     line-height: 28px;
+}
+#highlights .container{
+    padding-top: 95px;
+}
+#highlights .container .flex-container{
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: center;
+
+}
+#highlights .container .flex-container .flex-item{
+    flex-basis: 170px;
+}
+#highlights .container .flex-container .flex-item h1{
+font-size: 29px;
+}
+#highlights .container .flex-container .flex-item p{
+    margin-left: 110px;
+    flex-basis: 344px;
+    box-shadow: 0 0 7px 0px;
+    height: 362px;
 }
