@@ -56,8 +56,8 @@ body{
     background-color: #ffa500db
 }
 #faq{
-    height: 987px;
-    background-color: #ffffffcc;
+    height: 864px;
+    padding: 60px 0;
 }
 #contact{
     height: 1325px;
@@ -74,4 +74,45 @@ body{
 #legals{
     height: 121px;
     background-color: #008000de;
+}
+#faq .container .section-title{
+    text-align: center;
+}
+#faq .container .section-title h1{
+    font-size: 21px;
+    text-transform: uppercase;
+    color: blue;
+    margin: 31px 0 0 0;
+    box-shadow: 0px 0px 0px 0px;
+    display: inline-block;
+    padding: 8px 26px;
+    border-radius: 27px;
+    background-color: #E7F1FD;
+}
+#faq .container .section-title h2{
+    letter-spacing: 0.5px;
+    font-size: 50px;
+    font-weight: 700;
+    margin: 30px 8px 0 0;
+}
+#faq .container .section-title spam{
+    color: blue;
+}
+#faq .container .section-title p{
+    margin: 30px 0 0 0;
+    line-height: 33px;
+    font-size: 29px;
+}
+#faq .container .section-content p{
+    margin-left: 165px;
+    margin-top: 60px;
+    font-size: 25px;
+    word-spacing: 2px;
+    line-height: 31px;
+}
+#faq .container .section-content spam{
+    color: blue;
+    font-size: 32px;
+    line-height: 28px;
+}
 }
