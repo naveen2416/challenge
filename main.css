@@ -58,6 +58,7 @@ body{
 #faq{
     height: 864px;
     padding: 60px 0;
+    background-color: #F6F9FE;
 }
 #contact{
     height: 1325px;
@@ -114,5 +115,4 @@ body{
     color: blue;
     font-size: 32px;
     line-height: 28px;
-}
 }
